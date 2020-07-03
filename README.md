@@ -23,7 +23,7 @@ KONG_VERSION=1.0.0
 
 To add gokong via `go get`:
 ```
-go get github.com/kevholditch/gokong
+go get github.com/bjoernHeneka/gokong
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ go get github.com/kevholditch/gokong
 Import gokong
 ```go
 import (
-  "github.com/kevholditch/gokong"
+  "github.com/bjoernHeneka/gokong"
 )
 ```
 
