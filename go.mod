@@ -14,7 +14,6 @@ require (
 	github.com/google/go-cmp v0.5.0 // indirect
 	github.com/google/go-querystring v1.0.0
 	github.com/gotestyourself/gotestyourself v2.2.0+incompatible // indirect
-	github.com/kisielk/errcheck v1.3.0 // indirect
 	github.com/lib/pq v1.2.0
 	github.com/opencontainers/go-digest v1.0.0-rc1 // indirect
 	github.com/opencontainers/image-spec v1.0.1 // indirect
@@ -26,8 +25,7 @@ require (
 	github.com/sirupsen/logrus v1.4.2 // indirect
 	github.com/smartystreets/goconvey v1.6.4 // indirect
 	github.com/stretchr/testify v1.4.0
-	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/tools v0.0.0-20200702044944-0cc1aa72b347 // indirect
+	golang.org/x/net v0.0.0-20200226121028-0de0cce0169b // indirect
 	gotest.tools v2.2.0+incompatible // indirect
 	moul.io/http2curl v1.0.0 // indirect
 )
